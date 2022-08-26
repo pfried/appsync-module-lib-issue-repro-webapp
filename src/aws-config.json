@@ -1,7 +1,0 @@
-{
-  "region" : "eu-west-1",
-  "userPoolId" : "eu-west-1_DPHPQn2FC",
-  "userPoolClientId" : "57s9cuc70528iuog6utq9hna8s",
-  "identityPoolRef" : "eu-west-1:5b8ae3ee-9375-41f1-a329-2bd01be62290",
-  "graphqlUrl" : "https://dl5rged5tneovncj5r5w55asle.appsync-api.eu-west-1.amazonaws.com/graphql"
-}
